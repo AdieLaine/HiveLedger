@@ -4,6 +4,7 @@ HiveLedger is a decentralized AI-powered blockchain system that uses Proof of Ar
 
 ## Table of Contents
 
+1. [HiveLedger Whitepaper](#hiveLedger-whitepaper)
 1. [Features](#features)
 2. [Architecture](#architecture)
 2. [Getting Started](#getting-started)
