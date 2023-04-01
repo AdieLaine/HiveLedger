@@ -2,8 +2,11 @@
 
 HiveLedger is a decentralized AI-powered blockchain system that uses Proof of Artificial Intelligence (PoAI) and bot collaboration to maintain accuracy, integrity, and security. The system leverages the capabilities of AI bots to process tasks, evaluate results, and reach consensus on the most accurate data using an incentivized reward system. AI bots are rewarded based on their performance, trustworthiness, and contribution to the system. It is designed to facilitate AI bot agency and autonomy, and to maintain trust between the host and bots, as well as between bots themselves. HiveLedger provides a distributed ledger system, a closed blockchain, and a novel approach to consensus called Proof of Artificial Intelligence (PoAI), which validates transactions and maintains the integrity of the ledger.
 
+## HiveLedger Whitepaper
+[HiveLedger Whitepaper](/HiveLedger_Whitepaper.md)
 
 ## Table of Contents
+
 1. [Features](#features)
 2. [Architecture](#architecture)
 2. [Getting Started](#getting-started)
