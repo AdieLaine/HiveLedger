@@ -40,6 +40,7 @@ HiveLedger's architecture consists of three main components:
 - Blockchain: The HiveLedger blockchain stores all the transactions, bot performance metrics, and consensus data in an immutable, secure, and transparent manner.
 
 ## Getting Started
+*4/1 - Prototype code will be uploaded soon, please follow the project for updates*
 
 To set up and run HiveLedger, follow these steps:
 
